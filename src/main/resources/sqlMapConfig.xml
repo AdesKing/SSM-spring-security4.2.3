@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<!-- 配置是有顺序的、properties，setting \typeAliases.... -->
+<configuration>
+    <typeAliases>
+        <package name="com.AdesK.model"></package>
+    </typeAliases>
+</configuration>
